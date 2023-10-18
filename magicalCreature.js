@@ -39,6 +39,8 @@ let canVisit;
 // 6. Combine all the information into a summary.
 // Declare a variable named 'zooSummary' and combine all the above information using concatenation.
 
+let zooSummary; 
+
 
 // 7. Print the summary using console.log()
 
