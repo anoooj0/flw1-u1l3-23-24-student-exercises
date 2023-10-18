@@ -1,4 +1,12 @@
 /* 3. Style the button */
+button {
+  background-color: #FF69B4;
+  color: white;
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 15px;
+  
+}
 
 /* 
     Basic styling for the button:
@@ -20,7 +28,8 @@ button {
     - Set the font size to 18px
 */
 button:hover {
-    
+  background-color: #8B008B;
+  font-size: 18px;
 }
 
 button:active {
